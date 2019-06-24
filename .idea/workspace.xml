@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31ac98e4-75ff-433f-8208-86de9f052226" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/index/context_processors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products/templates/products/checkout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FYP/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/FYP/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/templates/about/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/templates/about/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/templates/base/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/index/templates/base/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/index/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/index/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/login/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/templates/login/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login/templates/login/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,14 +47,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>img</find>
-      <find />
+      <find>img src</find>
       <find>1.png</find>
       <find>#</find>
       <find>href</find>
       <find>src</find>
       <find>.html</find>
       <find>form</find>
-      <find />
+      <find>form-module .toggle</find>
       <find>logi</find>
       <find>login</find>
     </findStrings>
@@ -257,11 +243,18 @@
       <option name="presentableId" value="Default" />
       <updated>1547292341398</updated>
     </task>
+    <task id="LOCAL-00001" summary="jjjkjj">
+      <created>1560779466814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560779466814</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
       <window_info anchor="bottom" id="Messages" />
@@ -269,7 +262,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32838285" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32838285" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32838285" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32838285" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -356,6 +349,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jjjkjj" />
+    <option name="LAST_COMMIT_MESSAGE" value="jjjkjj" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
